@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/gifs/hello.gif" width = 30px> Hi there!/h3>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/gifs/hello.gif" width = 30px></h1>
 
 <!-- Profile Views -->
 
@@ -27,7 +27,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 - 🚀 I’m currently learning Full Stack Development.
 
-- 💬 Ask me about: React, Node.js, PHP, React Native, Android Native, Flutter
+- 💬 Ask me about: React, Node.js, PHP, React Native, <br /> Android Native, Flutter
 
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/KeepGrowingHere).
 
