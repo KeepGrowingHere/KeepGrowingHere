@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/master/hello.gif" width = 30px> Hi there!/h3>
 
 <!-- Profile Views -->
 
@@ -8,6 +8,8 @@
 
  <!-- About section -->
 
+ ## Hey <img src = "https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/master/Hi.gif" width = 30px>, I'm [Sr. Full Stack Developer!](https://github.com/KeepGrowingHere/)
+
 ---
 ✨ I'm a Full Stack Engineer and Mobile Developer who is passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
@@ -15,7 +17,8 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
+ ##  My GitHub Stats <img src = "https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width = 35px> 
 
 - 😄 My Pronouns: he / him 
 
@@ -34,8 +37,6 @@ I love sharing my knowledge with others, and I do that through content creation 
 <!-- About section: END -->
  
   <!-- GitHub section -->
-
- ##  My GitHub Stats <img src = "https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width = 35px> 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KeepGrowingHere" alt="Gift's LangStat" />
