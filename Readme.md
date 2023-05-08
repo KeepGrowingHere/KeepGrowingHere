@@ -3,7 +3,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KeepGrowingHere&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
  <!-- About section -->
@@ -18,7 +18,8 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 <!-- code gif-->
 
- ##  My GitHub Stats <img src = "https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width = 35px> 
+<img align="right" height="250" width="375" alt="" src=https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/master/gifs/coder.gif" />
+ ##  My GitHub Stats 
 
 - 😄 My Pronouns: he / him 
 
@@ -28,7 +29,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 - 💬 Ask me about: React, Node.js, PHP, React Native, Android Native, Flutter
 
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/KeepGrowingHere).
 
 - 📫 How to reach me: KeepGrowinga@gmail.com.
 
