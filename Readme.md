@@ -8,7 +8,7 @@
 
  <!-- About section -->
 
- ## Hey <img src = "https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/gifs/Hi.gif" width = 30px>, I'm [Sr. Full Stack Developer!](https://github.com/KeepGrowingHere/)
+## Hey <img src = "https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/gifs/Hi.gif" width = 30px>, I'm [Sr. Full Stack Developer!](https://github.com/KeepGrowingHere/)
 
 ---
 ✨ I'm a Full Stack Engineer and Mobile Developer who is passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
@@ -19,7 +19,8 @@ I love sharing my knowledge with others, and I do that through content creation 
 <!-- code gif-->
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/gifs/coder.gif" />
- ##  My GitHub Stats 
+
+### Talking about Personal Stuffs:
 
 - 😄 My Pronouns: he / him 
 
@@ -38,6 +39,8 @@ I love sharing my knowledge with others, and I do that through content creation 
 <!-- About section: END -->
  
   <!-- GitHub section -->
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>  
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KeepGrowingHere" alt="Gift's LangStat" />
