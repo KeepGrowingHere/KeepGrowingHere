@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h1 align="center"><img src = "https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/gifs/hello.gif" width = 30px></h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/gifs/hello.gif"></h1>
 
 <!-- Profile Views -->
 
