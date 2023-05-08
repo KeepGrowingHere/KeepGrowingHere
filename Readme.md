@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/hello.gif" width = 30px> Hi there!/h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/gifs/hello.gif" width = 30px> Hi there!/h3>
 
 <!-- Profile Views -->
 
@@ -8,7 +8,7 @@
 
  <!-- About section -->
 
- ## Hey <img src = "https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/Hi.gif" width = 30px>, I'm [Sr. Full Stack Developer!](https://github.com/KeepGrowingHere/)
+ ## Hey <img src = "https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/gifs/Hi.gif" width = 30px>, I'm [Sr. Full Stack Developer!](https://github.com/KeepGrowingHere/)
 
 ---
 ✨ I'm a Full Stack Engineer and Mobile Developer who is passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
@@ -18,7 +18,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 <!-- code gif-->
 
-<img align="right" height="250" width="375" alt="" src=https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/KeepGrowingHere/KeepGrowingHere/main/gifs/coder.gif" />
  ##  My GitHub Stats 
 
 - 😄 My Pronouns: he / him 
